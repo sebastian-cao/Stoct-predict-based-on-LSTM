@@ -1,5 +1,4 @@
 # Stoct-predict-based-on-LSTM
-Use LSTM to predict stock
 # 一、数据配置
 ## 数据来源
 通过tushare获取start_date到end_date期间的五类数据：开盘价，收盘价，最高价，最低价，成交量。使用tushare需要添加自己的APT，去官网注册即可[tushare官网](https://tushare.pro/document/2)
